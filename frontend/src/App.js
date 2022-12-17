@@ -1,7 +1,7 @@
 import { Products } from "./components/Products";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { ProductsCreate } from "./components/ProductsCreate";
-import { Orders } from "./components/Orders";
+import { Orders } from "./components/Order";
 
 function App() {
   return (
